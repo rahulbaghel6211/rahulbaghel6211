@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/736x/96/24/fb/9624fb979ef04c2585c5ac6ab3dbd20c.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul Baghel</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 You can find my resume **[Resume]()**
+- 🔭 You can find my resume **[Resume](https://docs.google.com/document/d/1cLTJV7IoFAfiMmrsTDskHNqtXOlnui8AI-wgialUkZ0/edit?usp=sharing)**
 
 - 🌱 I’m currently learning **Full stack web devlopment**
 
