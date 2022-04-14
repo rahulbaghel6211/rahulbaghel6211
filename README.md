@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rahulbaghel6211/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulbaghel6211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rahulbaghel6211/github-readme-activity-graph"><img alt="Rahul baghel Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulbaghel6211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,7 +64,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/rahulbaghel6211/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rahulbaghel6211">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/rahulbaghel6211?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rahulbaghel6211?tab=followers"><img src="https://img.shields.io/github/followers/rahulbaghel6211?label=Followers&style=social" alt="GitHub Badge"></a>
