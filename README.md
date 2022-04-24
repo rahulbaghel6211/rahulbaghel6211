@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="50%" src="https://camo.githubusercontent.com/041c42a3a41e3093ed6e478e6e1df9fc16002969498c0c3632fe4a06746ea11f/68747470733a2f2f64657369676e62756666732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f426f792d576f726b696e672d46726f6d2d486f6d652e676966" height="175px" width="175px"/></a>
+<a href="#"><img width="50%" height="50%" margin="auto" src="https://camo.githubusercontent.com/041c42a3a41e3093ed6e478e6e1df9fc16002969498c0c3632fe4a06746ea11f/68747470733a2f2f64657369676e62756666732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f426f792d576f726b696e672d46726f6d2d486f6d652e676966" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul Baghel</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
