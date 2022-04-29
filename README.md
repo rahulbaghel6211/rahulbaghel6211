@@ -58,7 +58,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rahul-baghel-296327200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/RahulBa43669063"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/rahulbaghel02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/baghel6147/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
