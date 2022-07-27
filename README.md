@@ -1,69 +1,66 @@
+<!-- ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul Baghel</h1>
+
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate full stack developer. Love to learn new things.</h3>
 
-
-## 🙋‍♂️ About Me
-
-- 🔭 You can find my resume **[Resume](https://docs.google.com/document/d/1cLTJV7IoFAfiMmrsTDskHNqtXOlnui8AI-wgialUkZ0/edit?usp=sharing)**
-
-- 🌱 I’m currently learning **Full stack web devlopment**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rahulbaghel1.vercel.app/)**
-
-- 📫 How to reach me **rahulbaghel6211@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  
-<br/>
-
 <p align="center">
-    <a href="https://github.com/rahulbaghel6211/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Baghel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbaghel6211&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Web+Developer;%20Enthusiast;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/rahulbaghel6211/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulbaghel6211&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rahulbaghel6211/github-readme-stats"><img alt="Rahul Baghel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaghel6211&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<hr/>
 
 
-<br/>
-<br/>
+<img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 
-<a href="https://github.com/rahulbaghel6211/github-readme-activity-graph"><img alt="Rahul baghel Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulbaghel6211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav0702&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav0702" /> </p>
 
-<br/>
-<br/>
+<p align="left"> <a href="https://twitter.com/vaibhavginnalw1" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavginnalw1?logo=twitter&style=for-the-badge" alt="vaibhavginnalw1" /></a> </p>
 
-## Connect with me:
+- 📫 How to reach me **vaibhavginnalwar@gmail.com**
+
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/rahul-baghel-296327200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rahulbaghel02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/baghel6147/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/vaibhavginnalw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavginnalw1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-ginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-ginnalwar" height="30" width="40" /></a>
+<a href="https://fb.com/vaibhav.ginnalwar.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhav.ginnalwar.02" height="30" width="40" /></a>
+<a href="https://instagram.com/vaibhav_ginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_ginnalwar" height="30" width="40" /></a>
+<a href="https://medium.com/@vaibhavginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaibhavginnalwar" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/rahulbaghel6211/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rahulbaghel6211">
-</a>
-<a href="https://github.com/rahulbaghel6211?tab=followers"><img src="https://img.shields.io/github/followers/rahulbaghel6211?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+ <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+        height="25px" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+        height="25px" />
+      <img alt="Material UI"
+        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+        height="25px" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
+
+</p>
+
+![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhav0702&&theme=xcode)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" /></p>
+
+<p>
+
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vaibhav0702&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=vaibhav0702&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+
+
+  </p>
+
