@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif) -->
 
 
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h1 align="center">Hi 👋, I'm Rahul Baghel</h1>
 <h3 align="center">A passionate full stack developer. Love to learn new things.</h3>
 
 <p align="center">
