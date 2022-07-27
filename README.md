@@ -12,19 +12,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav0702&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav0702" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbaghel6211&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbaghel6211" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaibhavginnalw1" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavginnalw1?logo=twitter&style=for-the-badge" alt="vaibhavginnalw1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rahulbaghel02" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbaghel6211?logo=twitter&style=for-the-badge" alt="rahulbaghel6211" /></a> </p>
 
-- 📫 How to reach me **vaibhavginnalwar@gmail.com**
+- 📫 How to reach me **rahulbaghel6211@gmail.com**
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaibhavginnalw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavginnalw1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav-ginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-ginnalwar" height="30" width="40" /></a>
-<a href="https://fb.com/vaibhav.ginnalwar.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhav.ginnalwar.02" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav_ginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_ginnalwar" height="30" width="40" /></a>
-<a href="https://medium.com/@vaibhavginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaibhavginnalwar" height="30" width="40" /></a>
+<a href="https://twitter.com/rahulbaghel02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulbaghel02" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-baghel-296327200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulbaghel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100022976563580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulbaghel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rahul_baghel000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulbaghel" height="30" width="40" /></a>
+<a href="https://medium.com/@rahulbaghel6211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahulbaghel6211" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,14 +52,14 @@
 
 </p>
 
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhav0702&&theme=xcode)
+![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rahulbagel6211&&theme=xcode)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbaghel6211&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulbaghel6211" /></p>
 
 <p>
 
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vaibhav0702&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=vaibhav0702&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rahulbaghel6211&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=rahulbaghel6211&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 
 
   </p>
