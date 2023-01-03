@@ -52,7 +52,7 @@
 
 </p>
 
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rahulbaghel6211&&theme=xcode)
+![Rahul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rahulbaghel6211&&theme=xcode)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbaghel6211&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulbaghel6211" /></p>
 
